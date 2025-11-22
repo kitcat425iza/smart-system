@@ -1,0 +1,2 @@
+# smart-system
+Python script
